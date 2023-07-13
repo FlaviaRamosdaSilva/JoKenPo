@@ -1,7 +1,9 @@
 
 
 const playHuman = (humanChoice) => {
-    console.log (humanChoice)
+    
+    console.log (playMachine())
+    playTheGame (humanChoice, playMachine ())
 }
 
 const playMachine = () => {
