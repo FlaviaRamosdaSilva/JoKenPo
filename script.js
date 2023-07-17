@@ -2,7 +2,6 @@
 
 const playHuman = (humanChoice) => {
     
-    console.log (playMachine())
     playTheGame (humanChoice, playMachine ())
 }
 
@@ -11,9 +10,11 @@ const playMachine = () => {
     const randowNumber = Math.floor (Math.random () *3)
 
 
-    return choices = [randowNumber]
+    return choices [randowNumber]
 }
 
 const playTheGame = (human, machine) => {
-console.log ('Humano:' + human + 'Máquina: ' + machine)
+
+    console.log ('Humano: ' + human + "maquina: " + machine)
+    
 }
