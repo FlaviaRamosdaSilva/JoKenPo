@@ -13,7 +13,7 @@ Utilizamos comandos já estudados anteriormente como Random, If e else If.
 
 
 ## :rocket: Visite o site (projeto publicado):
-:fast_forward:<a href="https://jokenpo-flavia-ramos.netlify.app/"> JoKenPo</a>
+:fast_forward:<a href="https://jokenpo-flavia-ramos.netlify.app/">JoKenPo</a>
 
 ## :flower_playing_cards: Imagem do Projeto:
 
